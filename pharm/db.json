@@ -1,0 +1,246 @@
+{
+  "HealthCareProducts": [
+      {
+          "categoryName": "Covid Essentials",
+          "offer": 77,
+          "id":1,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/50044c74b6c33b4baca34b57cc69af3e.png",
+          "items":[
+              {
+              "id": "fe57a464-6296-4b4a-8784-8d99c1b18c83",
+              "title": "Depura, 60000 Iu Vitamin D3 Oral Solution,Helps Bones Healthy, Aids In Boosting Immunity, Sugarfree",
+              "MRP": 94,
+              "price": 71,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-1-1654077819.jpg?dim=320x320&dpr=1&q=100"
+            }, {
+              "id": "172d32b0-25fe-4ebf-96a5-6020112e71a1",
+              "title": "Dettol Antiseptic Liquid Bottle Of 1 L",
+              "MRP": 331,
+              "price": 298,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/I40124/dettol-antiseptic-liquid-bottle-of-1-l-2-1654166347.jpg?dim=320x320&dpr=1&q=100"
+            }, {
+              "id": "c9d590ac-199a-4e96-aa73-54d2410f3698",
+              "title": "Pharmeasy All-In -One Vaporizer",
+              "MRP": 599,
+              "price": 539,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-1-1654233812.jpg"
+            }, {
+              "id": "1a3ae1fc-c578-429f-b678-a55c1e3eeb47",
+              "title": "Vicks Vaporub 50ml, Relief From Cold, Cough, Headache And Body Pain",
+              "MRP": 145,
+              "price": 130,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-2-1654078748.jpg"
+            }, {
+              "id": "c13150f5-9679-4691-af1a-ad8619044c7f",
+              "title": "Savlon Surface Disinfectant Spray 170g",
+              "MRP": 165,
+              "price": 155,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/O26428/savlon-surface-disinfectant-spray-170g-2-1654234199.jpg"
+            }, {
+              "id": "e5686494-1466-4034-8d81-3d0ed300083c",
+              "title": "Dettol Antiseptic Liquid Bottle Of 60 Ml",
+              "MRP": 33,
+              "price": 29,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/I40123/dettol-antiseptic-liquid-bottle-of-60-ml-2-1654166360.jpg"
+            }, {
+              "id": "73b8832e-4c42-4a27-a357-1bf49eae412e",
+              "title": "Pharmeasy Multivitamin Multimineral - Pack Of 60",
+              "MRP": 699,
+              "price": 629,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-2-1655210117.jpg"
+            }, {
+              "id": "52272a8c-1b14-43f6-b224-8450aadaf04d",
+              "title": "Everherb (By Pharmeasy) Amla Juice-Rich In Vitamin C-Natural Immunity Booster - 1 Litre Bottle",
+              "MRP": 399,
+              "price": 359,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/D92359/everherb-by-pharmeasy-amla-juice-rich-in-vitamin-c-natural-immunity-booster-1-litre-bottle-2-1654169607.jpg"
+            }, {
+              "id": "37858534-0e9b-4a36-a504-52080e551804",
+              "title": "Cofsils Orange Lozenges Strip Of 10",
+              "MRP": 30,
+              "price": 24,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/I04110/cofsils-orange-lozenges-strip-of-10-2-1654251540.jpg"
+            }, {
+              "id": "1ed92874-1f74-4c62-b3ad-0031bc37d6a8",
+              "title": "Vicks Vaporub 25ml, Relief From Cold, Cough, Headache And Body Pain",
+              "MRP": 85,
+              "price": 78,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/181135/vicks-vaporub-25ml-relief-from-cold-cough-headache-and-body-pain-2-1654078746.jpg"
+            }, {
+              "id": "0215707e-db0a-4a10-b479-23482731f375",
+              "title": "Benadon Vitamin B6 40mg Tablet 10'S",
+              "MRP": 25,
+              "price": 24,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2-1654249323.jpg"
+            }, {
+              "id": "ee4ec9bd-cac1-4c9e-b5d6-cfbd2a93060b",
+              "title": "3 Ply Mask Packet Of 100",
+              "MRP": 1000,
+              "price": 400,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/U82801/3-ply-mask-packet-of-100-2-1654233402.jpg"
+            }, {
+              "id": "8aaa4846-bedd-4521-97b2-b6a8b9f8778f",
+              "title": "Dettol Antiseptic Liquid Bottle Of 250 Ml",
+              "MRP": 116,
+              "price": 106,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/V09720/dettol-antiseptic-liquid-bottle-of-250-ml-2-1654233486.jpg"
+            }, {
+              "id": "e716305c-594d-4bfc-8fc5-4bf23fe7e0c6",
+              "title": "Vicks Vaporub 5ml,Relief From Cold, Cough, Headache And Body Pain",
+              "MRP": 21,
+              "price": 19,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/181145/vicks-vaporub-5ml-relief-from-cold-cough-headache-and-body-pain-2-1654078120.jpg"
+            }, {
+              "id": "84c91015-bd88-4dd6-b89f-5a62cd3d9b9c",
+              "title": "Revital H Men Multivitamin With Calcium, Zinc & Ginseng For Immunity, Strong Bones & Energy (30 Capsules)",
+              "MRP": 310,
+              "price": 263,
+              "image": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-2-1654077741.jpg"
+            }
+          ]
+      },
+      {
+          "categoryName": "Personel Care",
+          "offer": 80,
+          "id":2,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/b8832bde65de3cafbd8a84861b9b9d1d.jpg",
+          "items":[  {
+            "id": "fe57a464-6296-4b4a-8784-8d99c1b18c83",
+            "title": "Supradyn Daily Multivitamin Tablets 15s",
+            "MRP": 50,
+            "price": 45,
+            "image": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-1-1641793954.jpg"
+          },{
+            "id": "c9d590ac-199a-4e96-aa73-54d2410f3698",
+            "title": "Calcimax Forte Plus Strip Of 30 Tablets",
+            "MRP": 270,
+            "price": 216,
+            "image": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-2-1654078168.jpg"
+          }, {
+            "id": "1a3ae1fc-c578-429f-b678-a55c1e3eeb47",
+            "title": "Scalpe Plus Anti Dandruff Shampoo Bottle Of 75 Ml",
+            "MRP": 260,
+            "price": 200,
+            "image": "https://cdn01.pharmeasy.in/dam/products_otc/270382/scalpe-plus-anti-dandruff-shampoo-bottle-of-75-ml-2-1654518458.jpg"
+          }, {
+            "id": "c13150f5-9679-4691-af1a-ad8619044c7f",
+            "title": "Arachitol Nano 60k Sugar Free Bottle Of 5ml Solution",
+            "MRP": 86,
+            "price": 77,
+            "image": "https://cdn01.pharmeasy.in/dam/products_otc/I35308/arachitol-nano-60k-sugar-free-bottle-of-5ml-solution-1-1651121454.jpg"
+          }, {
+            "id": "e5686494-1466-4034-8d81-3d0ed300083c",
+            "title": "Plum Bodylovin Tropical Tango Shower Gel - 240 Ml",
+            "MRP": 380,
+            "price": 190,
+            "image": "https://cdn01.pharmeasy.in/dam/products_otc/T70281/plum-bodylovin-tropical-tango-shower-gel-240-ml-2-1649766769.jpg"
+          }, {
+            "id": "73b8832e-4c42-4a27-a357-1bf49eae412e",
+            "title": "Batiste Instant Hair Refresh Dry Shampoo Plus Show - Stopping Heavenly Volume - 200ml",
+            "MRP": 749,
+            "price": 599,
+            "image": "https://cdn01.pharmeasy.in/dam/products_otc/A23405/batiste-instant-hair-refresh-dry-shampoo-plus-show-stopping-heavenly-volume-200ml-2-1641791522.jpg"
+          }
+          ]
+      },
+      {
+          "categoryName": "Health Food and Drinks",
+          "offer": 57,
+          "id":3,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/62e6d7551ecf3a5da1d2336c41cc0549.png",
+          "items":[
+          ]
+      },{
+          "categoryName": "Skin Care",
+          "offer": 50,
+          "id":4,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/ff5aaa03881e3016bf409f85b4e328aa.png",
+          "items":[
+          ]
+      },{
+          "categoryName": "Home Care",
+          "offer": 35,
+          "id":5,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/68ae87e29f4a3abbb8ed69fe7ecf057c.png",
+          "items":[
+          ]
+      },{
+          "categoryName": "Ayurvedic Care",
+          "offer": 70,
+          "id":6,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/4209e1d247cd30fca1f619786fa3e9c1.png",
+          "items":[
+          ]
+      },{
+          "categoryName": "Sexual Wellness",
+          "offer": 53,
+          "id":7,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/7e509ee2f5413b0483d00c0b30067ee0.png",
+          "items":[
+          ]
+      },{
+          "categoryName": "Fitness & Supplements",
+          "offer": 80,
+          "id":8,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/0e9613b95131376b95bcbf92c48149b5.png",
+          "items":[
+          ]
+      },{
+          "categoryName": "Mother and Baby Care",
+          "offer": 50,
+          "id":9,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/af8d32e30757338787ca3e9267865d4f.png",
+          "items":[
+          ]
+      },{
+          "categoryName": "Health Care and Devices",
+          "offer": 65,
+          "id":10,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/e17c6d96de443b65988f5b2366b6ebb1.png",
+          "items":[
+          ]
+      },{
+          "categoryName": "Surgicals and Dressings",
+          "offer": 55,
+          "id":11,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/2e58770425cc39a983d6d71fb0cc07e2.png",
+          "items":[
+          ]
+      },{
+          "categoryName": "Health Condition",
+          "offer": 65,
+          "id":12,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/14bac4e33b11338299d8d6c1d905ca8f.png",
+          "items":[
+          ]
+      },{
+          "categoryName": "Diabetic Care",
+          "offer": 65,
+          "id":13,
+          "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/ec716b08ac643f88971944792e2c5549.png",
+          "items":[
+          ]
+      },{
+        "categoryName": "Elderly Care",
+        "offer": 45,
+        "id":14,
+        "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/292b08b6deab3ba9bd76d3a6ed4d71e0.png",
+        "items":[
+        ]
+    },{
+      "categoryName": "Accessories And Wearables",
+      "offer": 35,
+      "id":15,
+      "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/236fc993bd00381fb7061ee2333ad0e3.png",
+      "items":[
+      ]
+  },{
+    "categoryName": "Beauty",
+    "offer": 70,
+    "id":15,
+    "img":"https://cdn01.pharmeasy.in/dam/discovery/categoryImages/0c3fa8b647b9323194033076f6653662.png",
+    "items":[
+    ]
+}
+  ]
+}

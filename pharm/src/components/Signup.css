@@ -1,0 +1,57 @@
+
+
+.outer{
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-size: larger;
+}
+.inner{
+  width:550px;
+  margin:auto;
+  margin-top: 20px;
+  background-color: rgb(193, 15, 237);
+  
+  transition: all .3s;
+  padding:25px;
+  box-shadow: rgba(101, 15, 188, 0.35) 0px 5px 15px;
+}
+.outer .form-control{
+  border-color: rgb(65, 23, 163);
+  box-shadow: none;
+  font-size: 19px;
+}
+.outer h3{
+  font-weight:bold;
+  text-align:center;
+  margin:0%;
+  line-height: 1;
+  padding-bottom: 20px;
+}
+label{
+  font-weight:600;
+}
+.forgot-password,
+.forgot-password{
+text-align:right;
+font-size:19px;
+}
+.sub{
+  margin-top: 12px;
+background-color: rgb(79, 15, 207);
+width:100%;
+
+font-size: 25px;
+color:white;
+font-weight: bold;
+}
+.hint{
+  font-size: 25px;
+  color:rgb(29, 23, 29);
+  font-weight:bold;
+}
+Alert{
+  font-size: larger;
+  color:orangered;
+}
